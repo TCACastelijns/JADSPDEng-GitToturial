@@ -2,5 +2,5 @@
 In this repository JADS PDEng students can experiment with the use of Git and GitHub.
 
 ## Contributors
-Thomas Castelijns (Maintainer@gmail.com)
-Thomas Castelijns (Enexis)
+- Thomas Castelijns (Maintainer@gmail.com)
+- Thomas Castelijns (Enexis)

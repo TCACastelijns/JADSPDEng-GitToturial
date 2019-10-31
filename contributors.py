@@ -6,4 +6,5 @@ def who_is_a_contributor():
 
 
 if name == '__main__':
+	print('Who is a contributor:')
 	who_is_a_contributor()

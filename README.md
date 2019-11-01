@@ -11,3 +11,13 @@ Become a contributor to an open source project by making a pull request. Check t
 ## Contributors
 - Thomas Castelijns (Maintainer@gmail.com)
 - Thomas Castelijns (Enexis)
+
+## References and learning resources
+- [JADS PDEng Kaggle repository](https://github.com/MLblog/jads_kaggle)
+- [Basics](https://guides.github.com/activities/hello-world/)
+- [Branching](https://guides.github.com/introduction/flow/)
+- [Forking](https://guides.github.com/activities/forking/)
+- [Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [Interactive](https://learngitbranching.js.org/)
+- [Udacity Course Git](https://classroom.udacity.com/courses/ud123)
+- [Udacity Course GitHub](https://classroom.udacity.com/courses/ud456)

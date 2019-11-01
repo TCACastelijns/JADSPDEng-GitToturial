@@ -3,7 +3,7 @@
 ## Cloning the project
 - <a href="https://github.com/TCACastelijns/JADSPDENG-GitToturial/fork">Fork the repository</a>
 - Start Git Bash and navigate to a proper location.
-- Clone your fork: `git clone https://github.com/ThomasEnexis/JADSPDEng-GitToturial.git`
+- Clone your fork: `git clone https://github.com/<your_GitHub_username>/JADSPDEng-GitToturial.git`
 - Navigate to your cloned repository: `cd JADSPDEng-GitToturial`
 
 ## Work on a new feature
@@ -16,4 +16,7 @@
    - The issue that you fixed or functionality you added, e.g. `Fixes bug with...` or `Adds plots in EDA`
    - Motivation: why did you create this PR? What functionality did you set out to improve? What was the problem + an overview of how you fixed it? Whom does it affect and how should people use it?
    - Any other useful information: links to other related Github or mailing list issues and discussions, benchmark graphs, academic papers.
-- If accepted, checkout to your mater and pull the master (including the changes) from GitHub: git pull origin master
+
+## Back in sync
+- If accepted, the `master` of your forked repository is out of synch with the orignal. Therefore, you need to checkout to your `master` and pull the original master (including the changes) from GitHub: `git pull https://github.com/TCACastelijns/JADSPDEng-GitToturial.git`
+- Now your local forked repo is in synch, but your online version net yet. So push your local changes to your online forked version: `git push origin master`

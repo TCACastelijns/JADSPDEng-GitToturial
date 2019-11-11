@@ -9,7 +9,7 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 Become a contributor to an open source project by making a pull request. Check the `CONTRIBUTING.md` to check how to do this! :-D. Note that your pull request will be accepted by the maintainer of this project if your name is added to the list below.
 
 ## Contributors
-- Thomas Castelijns (Maintainer@gmail.com)
+- Thomas Castelijns (Maintainer account)
 - Thomas Castelijns (Enexis)
 
 ## References and learning resources

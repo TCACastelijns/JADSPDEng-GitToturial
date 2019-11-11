@@ -1,4 +1,6 @@
-image: python:3.7
- script:
-    - pip install -r requirements.txt
-    - python -m contributors.py
+language: python
+install:
+  - pip install -r requirements.txt
+# command to run tests
+script:
+  - contributors

@@ -1,3 +1,5 @@
+import pandas as pd
+
 def who_is_a_contributor():
 	with open('README.md', 'rt') as fl:
 	    lines = fl.read()

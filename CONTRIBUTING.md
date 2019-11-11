@@ -3,18 +3,18 @@
 ## Cloning the project
 - <a href="https://github.com/TCACastelijns/JADSPDENG-GitToturial/fork">Fork the repository</a>
 - Start Git Bash and navigate to a proper location.
-- Clone your fork: `git clone https://github.com/<your_GitHub_username>/JADSPDEng-GitToturial.git`
-- Navigate to your cloned repository: `cd JADSPDEng-GitToturial`
+- Clone your fork: `git clone https://github.com/<your_GitHub_username>/JADSPDEng-GitTutorial.git`
+- Navigate to your cloned repository: `cd JADSPDEng-GitTutorial`
 
 - Right now your local copy is connected with your forked repository (`origin`). Running `git remote -v` will show:
 
    ```
-   origin  https://github.com/<your_GitHub_username>/JADSPDEng-GitToturial.git (fetch)
-   origin  https://github.com/<your_GitHub_username>/JADSPDEng-GitToturial.git (push)
+   origin  https://github.com/<your_GitHub_username>/JADSPDEng-GitTutorial.git (fetch)
+   origin  https://github.com/<your_GitHub_username>/JADSPDEng-GitTutorial.git (push)
    ```
    Therefore we want to connect to the original repository as well:
    
-   `git remote add base https://github.com/TCACastelijns/JADSPDEng-GitToturial.git`
+   `git remote add base https://github.com/TCACastelijns/JADSPDEng-GitTutorial.git`
 
 ## Pulling and pushing changes
 - Every time the original repository (`base`) is updated you can pull the most recent changes via `git pull base master`
@@ -32,5 +32,5 @@
    - Any other useful information: links to other related Github or mailing list issues and discussions, benchmark graphs, academic papers.
 
 ## Back in sync
-- If accepted, the `master` of your forked repository is out of synch with the orignal. Therefore, you need to checkout to your `master` and pull the original master (including the changes) from GitHub: `git pull https://github.com/TCACastelijns/JADSPDEng-GitToturial.git`
+- If accepted, the `master` of your forked repository is out of synch with the orignal. Therefore, you need to checkout to your `master` and pull the original master (including the changes) from GitHub: `git pull https://github.com/TCACastelijns/JADSPDEng-GitTutorial.git`
 - Now your local forked repo is in synch, but your online version net yet. So push your local changes to your online forked version: `git push origin master`

@@ -5,8 +5,9 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 1. Installed version of Git Bash
 2. An account on GitHub
 
-## Assignment: 
-Become a contributor to an open source project by making a pull request. Check the `CONTRIBUTING.md` to check how to do this! :-D. Note that your pull request will be accepted by the maintainer of this project if your name is added to the list below.
+## Assignments: 
+1. Become a contributor to an open source project by making a pull request. Check the `CONTRIBUTING.md` to check how to do this! Note that your pull request will be accepted by me if your name is added to the list below.
+2. Right now the project just contains a simple `.py` script that displays the names of all contributors of this project. Make a proposal for a more exciting version of this script. For instance adding statistics or visualizations about the number of persons that are within the group of contributors or references. Be creative! 
 
 ## Contributors
 - Thomas Castelijns (Maintainer account)

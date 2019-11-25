@@ -31,7 +31,7 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 - [Basics](https://guides.github.com/activities/hello-world/)
 - [Branching](https://guides.github.com/introduction/flow/)
 - [Forking](https://guides.github.com/activities/forking/)
-- [Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [GitHub cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [Interactive](https://learngitbranching.js.org/)
 - [Udacity Course Git](https://classroom.udacity.com/courses/ud123)
 - [Udacity Course GitHub](https://classroom.udacity.com/courses/ud456)

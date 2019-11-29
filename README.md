@@ -25,7 +25,7 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 ## Contributors
 - Thomas Castelijns (Maintainer account)
 - Thomas Castelijns (Enexis)
-- Lennart Damen
+- Lenny
 
 ## References and learning resources
 - [JADS PDEng Kaggle repository](https://github.com/MLblog/jads_kaggle)

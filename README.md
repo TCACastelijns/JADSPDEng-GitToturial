@@ -33,6 +33,7 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 - Mahdi (GGD)
 - Lenny
 - Nikolaos Vyzas
+- Bingcheng Luo (JADS)
 
 ## References and learning resources
 - [JADS PDEng Kaggle repository](https://github.com/MLblog/jads_kaggle)

@@ -29,6 +29,7 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 - Eelke Bakker
 - Ashwanthi
 - Veera (JADS)
+- Bart Terpstra (JADS PDEng Trainee)
 
 ## References and learning resources
 - [JADS PDEng Kaggle repository](https://github.com/MLblog/jads_kaggle)

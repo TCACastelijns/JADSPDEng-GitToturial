@@ -5,19 +5,19 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 1. Installed version of Git Bash
 2. An account on GitHub
 
-## Assignments: 
+## Assignments:
 1. Become a contributor to an open source project by making a pull request. Check the `CONTRIBUTING.md` to check how to do this! Note that your pull request will be accepted by me if your name is added to the list below.
-2. Using Git and GitHub is not solving all your troubles. Sometimes your pull request will generate a [Merge Conflict](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts). 
-	- Make a new branch on top of your local copy's `master` branch by 
-	
+2. Using Git and GitHub is not solving all your troubles. Sometimes your pull request will generate a [Merge Conflict](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts).
+	- Make a new branch on top of your local copy's `master` branch by
+
 	`git checkout -b <your-initals>_favo_nickname`
-	
+
 	- Change the line with your name to your favorite nickname in the contributors list
 	- Add and commit the changes
-	- Make a second branch, again on top of your local copy's `master` branch by 
-	
+	- Make a second branch, again on top of your local copy's `master` branch by
+
 	`git checkout -b <your-initals>_favo_nickname`
-	
+
 	- Change the line with your name to a nickname you don't like, add and commit the changes
 	- Run `git merge <your-initals>_hatefull_nickname` what will happen now? Can you solve it?
 	- If solved, push the changes to your forked repository and make a pull request again!
@@ -25,6 +25,15 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 ## Contributors
 - Thomas Castelijns (Maintainer account)
 - Thomas Castelijns (Enexis)
+- Hadi Sotudeh (JADS)
+- Eelke Bakker
+- Ashwanthi
+- Veera (JADS)
+- Bart Terpstra (JADS PDEng Trainee)
+- Mahdi (GGD)
+- Lenny
+- Nikolaos Vyzas
+- Bingcheng Luo (JADS)
 - Aynaz & Naomi (JADS)
 
 ## References and learning resources

@@ -25,6 +25,10 @@ In this repository JADS PDEng students can experiment with the use of Git and Gi
 ## Contributors
 - Thomas Castelijns (Maintainer account)
 - Thomas Castelijns (Enexis)
+- Hadi Sotudeh (JADS)
+- Eelke Bakker
+- Ashwanthi
+- Veera (JADS)
 - Bart Terpstra (JADS PDEng Trainee)
 
 ## References and learning resources
